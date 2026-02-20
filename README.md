@@ -236,8 +236,6 @@ If you have questions or suggestions, feel free to open an issue or reach out!
 
 ---
 
-**Made with ❤️ using Vanilla Web Technologies**
-
 No frameworks. No dependencies. Just pure, beautiful code. 🎨
 
 *I am just happy to share it!* 😊
